@@ -1,6 +1,6 @@
 add_library(DataStructures
-        include/Array.h
-        include/Array.h
+        arrays/StaticArray.h
+        arrays/StaticArray.h
         #        src/LinkedList.cpp
 )
 
